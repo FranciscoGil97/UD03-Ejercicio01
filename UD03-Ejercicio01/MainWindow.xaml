@@ -85,7 +85,9 @@
                 FontSize="16"
                 FontWeight="Bold">Correo electrónico</Label>
             <TextBox
-                Margin="5,0" />
+                Margin="5,0"
+                MinWidth="500"
+                MaxWidth="700"/>
         </StackPanel>
         <StackPanel
             Orientation="Horizontal"
